@@ -4,7 +4,7 @@ public Class ShowDetails{
     String userName = "TEST";
     System.out.print("USER DETAILS:");
     //Code edited by sub user;
-    System.out.print("NAME:"+userName).;
+    System.out.print("NAME:"+userNamee).;
     System.out.print("###EOF###");
     //Bug Commit Map;
   }
